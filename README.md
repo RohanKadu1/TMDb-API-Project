@@ -1,2 +1,2 @@
 # TMDb-API-Project
-The project aims to utilize the TMDb (The Movie Database) API to gather information about TV shows, movies, and various aspects of the entertainment sector. 
+The project aims to utilize the TMDb (The Movie Database) API to gather information about TV shows, movies, and various aspects of the entertainment sector. By leveraging the capabilities of the TMDb API, the project can provide recommendations to users based on their preferences, including specific genres, favorite actors, and personal likes and dislikes. Additionally, the project can retrieve details about upcoming TV shows and movies, as well as identify the most popular and exclusive/new content available at any given time. 
